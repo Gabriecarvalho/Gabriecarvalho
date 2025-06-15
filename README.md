@@ -1,6 +1,7 @@
-# 👋 Hi there
+# Gabriel Carvalho
 
-I'm Gabriel carvalho, a passionate software developer and tech enthusiast.</br>
+Sou um estudante de analise e desenvolvimento de sistemas apaixonado por criar soluções eficientes, com foco em backend e análise de dados. Tenho proficiência em TypeScript e React.js, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias. Autodidata e curioso, gosto de enfrentar desafios e aprender continuamente.
+</br>
 
 > “Do, or do not. There is no “try” — Yoda
 
